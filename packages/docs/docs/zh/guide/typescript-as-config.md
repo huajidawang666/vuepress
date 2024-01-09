@@ -62,7 +62,7 @@ export default defineConfig4CustomTheme<MyThemeConfig>({
 
 ![](/assets/1.9-official-plugin-tuple-usage.png)
 
-官方插件的选项有确定的类型提示，** [元组样式](../plugin/using-a-plugin.md#plugin-options), [对象样式](../plugin/using-a-plugin.md#plugin-options), 和 [插件速记](../plugin/using-a-plugin.md#plugin-shorthand) 都支持类型推断!**:
+官方插件的选项有确定的类型提示，**[元组样式](../plugin/using-a-plugin.md#plugin-options), [对象样式](../plugin/using-a-plugin.md#plugin-options), 和 [插件速记](../plugin/using-a-plugin.md#plugin-shorthand) 都支持类型推断!**:
 
 - 元组样式:
 
@@ -107,7 +107,7 @@ export default defineConfig({
 
 ## ISO 语言代码
 
-类型推断支持 [i18n](http://localhost:8080/guide/i18n.html) 的 [ISO 语言代码](http://www.lingoes.net/en/translator/langcode.htm) 。
+类型推断支持 [i18n](../guide/i18n.html) 的 [ISO 语言代码](http://www.lingoes.net/en/translator/langcode.htm) 。
 
 ![](/assets/1.9-lang.png)
 
